@@ -1,4 +1,6 @@
-# Esse é um projeto simples que simula um app inspirado no Spotify, com foco em telas para celular. A ideia aqui foi criar uma experiência visual. 
+
+ 
+Esse é um projeto simples que simula um app inspirado no Spotify, com foco em telas para celular. A ideia aqui foi criar uma experiência visual. 
 
 Tem um local simulando a entrada para o spotify
 com email, senha e uma opção para "esqueceu senha"
